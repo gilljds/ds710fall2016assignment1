@@ -2,8 +2,13 @@ Your first assignment is to use GitHub to submit some autobiographical informati
 1. What is your name?
 Jason Gill
 2. Why are you interested in Data Science?
+I would like to advance my career which has mostly involved descriptive analytics by learning more about predictive and prescriptive analytics.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I took Java in college some years ago. My current job involves mostly SQL so there will be a bit of a learning curve.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I took business statistics in college. Within my current job I have done some linear regression models using gui based SSAS data mining.
 5.  Do you have other experience with R or Python?
+Not outside of some tutorials through CodeAcademy and Coursera.
 6.  What do you hope to learn in this class?
+How to prepare data to be consumed within some of the statistical models made available through R and Python such as time series analysis, linear and logistic regression, and decision trees.
 7.  Is there anything else you would like to share with us?
